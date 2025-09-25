@@ -100,3 +100,4 @@ let ironMan = {
 
 // Otherwise known as Tony Stark an Avenger stationed in NYC
 // He's known to say "I am Iron Man", and his greatest beef is with The Mandarin
+superheroObject(ironMan)
